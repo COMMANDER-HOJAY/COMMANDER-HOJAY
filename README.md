@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @COMMANDER-HOJAY
 - 👀 I’m interested in meeting you
 - 🌱 I’m currently learning html,css and JavaScript
-- 💞️ I’m looking to collaborate on my project and your project
+- 💞️ I’m looking forward to collaborate with you on my project and on your project.
 - 📫 How to reach me @COMMANDER-HOJAY
 
 <!---
